@@ -1,0 +1,16 @@
+python-dotenv==1.0.1
+requests==2.31.0
+asyncio==3.4.3
+web3==6.15.1
+eth-account==0.11.0
+eth-utils==2.3.1
+eth-abi==5.0.1
+hexbytes==0.3.1
+supabase==2.3.5
+postgrest==0.13.2
+gotrue==2.4.1
+realtime==1.0.0
+storage3==0.7.4
+httpx==0.24.1
+pydantic==2.6.4
+typing-extensions==4.9.0
